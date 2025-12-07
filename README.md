@@ -1,4 +1,5 @@
-# Skin Cancer Detection from Dermatoscopic Images  
+# Hybrid Deep Learning and Gradient Boosting Framework for Automated Skin Cancer Classification
+  
 MobileNetV2 + XGBoost & LightGBM for Multi-Class Classification (ISIC Dataset)
 
 This project builds an end-to-end hybrid deep learning + machine learning pipeline for automated skin cancer detection using dermatoscopic images from the ISIC dataset.  
